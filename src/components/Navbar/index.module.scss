@@ -1,0 +1,21 @@
+.nav {
+    position: absolute;
+    width: 100%;
+    background: var(--background);
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    .link {
+        text-decoration: none !important;
+        color: var(--secondary-color);
+        font-weight: var(--font-weight);
+        // font-family: system-ui;
+    }
+
+    .logo_main {
+        border-radius: 15px;
+        box-shadow: 0px 0px 5px dimgray;
+    }
+}
