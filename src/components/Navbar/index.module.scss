@@ -1,11 +1,11 @@
 .nav {
-    position: absolute;
+    position: relative;
     width: 100%;
-    background: var(--background);
-    height: 10%;
+    background-color: var(--primary-color);
+    height: 8em;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
 
     .link {
         text-decoration: none !important;

@@ -74,10 +74,10 @@
 } */
 
 :root {
-  --background: #dbd9d1;
-
+  /* --background: #dbd9d1; */
+  --background: #6f7889;
   --primary-color: #f1efe7;
-  --secondary-color: #59738d;
+  --secondary-color: #6f7889;
   --font-family: 'system-ui';
   --font-weight: 600;
 }
