@@ -17,7 +17,7 @@ export default function Init() {
                             <p>At <strong>Platvif</strong>, we transform the way you book and enjoy culinary experiences. Discover, book, and enjoy the best restaurants around the world, all from the comfort of your phone.</p>
                         </div>
                         <div className={styles.action_btns}>
-                        <Button variant='outlined' className={styles.mission}>Our Mission</Button>
+                        <Button variant='outlined' className={styles.mission}>About Us</Button>
                         <IconButton className={styles.social_icons}>
                             <LinkedInIcon />
                         </IconButton>
